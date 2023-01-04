@@ -1,0 +1,161 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+@media screen and (min-with: 481px) and (max-width: 1279px){
+   body{
+      width: 720px;
+   }
+}
+@media screen (max-width: 480px){
+   body{
+      width: 400px;
+   }
+}
+
+body{
+   font-family: "Arial", "Helvetica", "sans-serif";
+}
+a:link{
+   text-decoration: underline;
+}
+a:hover{
+   text-decoration: none;
+}
+#logo{
+   float: left;
+}
+
+header h1 {
+   font-family: "Notable";
+   text-transform: uppercase;
+}
+.paragraph{
+   font-size: 15px;
+}
+video{
+   margin-left: 100px;
+}
+img{
+   float: right;
+   margin: 0px 0px 15px 20px;
+}
+
+.virtual_reality header{
+   color: #FF4633;  /* 1 color */
+}
+
+.fitness_trackers header{
+   color: #FF7133; /*2 color */
+}
+
+.fitness_apps header{
+   color: #FF8D33; /*3 color */
+}
+
+section header{
+   font-size: 20px;
+   margin-left: 10px;
+}
+
+.paragraph{
+   font-size: 18px;
+   margin-left: 10px;
+   margin-top: 20px;
+   word-spacing: 0.5em;
+   text-indent: 0.5em;
+   line-height: 1rem;
+   letter-spacing: normal;
+}
+
+section.virtual_reality{
+   margin-top: 30px;
+}
+section.fitness_trackers{
+
+   margin-top: 80px;
+}
+img.pictur2{
+   margin-right: -80px;
+}
+section.fitness_apps{
+
+   margin-top: 80px;
+}
+ol{
+   margin-top: 60px;
+   margin-left: 50px;
+}
+
+footer.the_end{
+   margin-top: 40px;
+   text-align: center;
+}
+p.cookie{
+   position: fixed;
+   text-align: center;
+   font-size: 30px;
+   right: 0px;
+   bottom: 0px;
+   width: 300px;
+   background-color: #FFF;
+   color: #FA0;
+   opacity: .5;
+   z-index: -1;
+}
+/*----------PRODUCT PAGE--------------*/
+
+.digital_platform header{
+   color: #FF8333; /* 4 color */
+}
+
+.why_is_so_cool header{
+   color: #FC762A; /* 5 color */
+}
+
+.software_platform header{
+   color: #F96A18; /* 6 color */
+}
+
+.start header {
+   color: #F95D03; /* 7 color */
+}
+
+.interactive_way header{
+   color: #F15B05; /* 8 color */
+}
+
+.helps_you header{
+   color: #DF5404; /* 9 color */
+}
+
+footer.the_end{
+   margin-top: 40px;
+   text-align: center;
+   margin-left: 150px;
+}
+
+
+
+/*--------------PRICING PAGE---------*/
+
+table, th, td{
+  border-style: double;
+  border-color: black;
+   border-width: 1px;
+}
+footer.the_end{
+   margin-top: 40px;
+   text-align: center;
+   margin-left: 150px;
+}
+
+
+/*----------CONTACT PAGE----------------*/
+
+footer.the_end{
+   margin-top: 40px;
+   text-align: center;
+   margin-left: 150px;
+}
