@@ -99,8 +99,8 @@ p.cookie{
    right: 0px;
    bottom: 0px;
    width: 300px;
-   background-color: #FFF;
-   color: #FA0;
+   background-color: #FA0;
+   color: #FFF;
    opacity: .5;
    z-index: -1;
 }
