@@ -1,3 +1,5 @@
 Student name: Vilius Tekorius
 Student number: 706540
 Student class: ITC1
+URL student GitHub website: https://vilius11.github.io
+URL student GitHub repository: https://github.com/Vilius11/Vilius11.github.io
